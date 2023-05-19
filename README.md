@@ -1,2 +1,2 @@
 # calculator.github.io
-Javascript Calculator1
+Javascript Calculator2
