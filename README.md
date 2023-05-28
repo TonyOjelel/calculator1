@@ -1,3 +1,3 @@
 # calculator.github.io
 Javascript Calculator
-1@1
+1@12
